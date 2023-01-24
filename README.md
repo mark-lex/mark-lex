@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mark-lex a UI Designer
+- 👋 Hi, I’m Mark a UI Designer
 - 👀 I’m interested in learning more about new technologies and programming.
-- 🧑🏻‍💻 I’m currently learning about UX/UI Design, prototyping, system design and web development. 
-- 🎮 In my free times I play video games (zombies video games 👀)
+- 🧑🏻‍💻 I’m currently learning about web development, system design, prototyping and more of UX/UI Design. 
+- 🎮 In my free times I play video games (zombies video games 🧟‍♂️)
 - 📓 Check my portfolio on Behance https://www.behance.net/marklex
 
 <!---
