@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark a UI Designer
+- 👋 Hi, I’m Mark a UI & Web Designer
 - 👀 I’m interested in learning more about new technologies and programming.
 - 🧑🏻‍💻 I’m currently learning about web development, system design, prototyping and more of UX/UI Design. 
 - 🎮 In my free times I play video games (zombies video games 🧟‍♂️)
